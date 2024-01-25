@@ -7,4 +7,5 @@ Time spend on it: ~3h
 
 The goal was to implement a c++ async node in UE5 to detect changes in an Actor's boolean value.
 Coded and tested in UE5.3
-DON'T FORGET TO RECOMPILE AFTER LOADING THE PROJECT! ;)
+DON'T FORGET to recompile after project startup! ;)
+Also, since this is unreal and it can get quite moody depending on moon phases or weather patterns or whatever, disabling live coding and deleting the intermediate-folder can fix things too ;-)
